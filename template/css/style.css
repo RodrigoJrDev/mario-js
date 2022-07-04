@@ -6,7 +6,7 @@
 
 .footer-board {
   height: 30vh;
-  background: url(/template/imgs/footer-game.png);
+  background: url(../imgs/footer-game.png);
   background-size: cover;
 }
 
