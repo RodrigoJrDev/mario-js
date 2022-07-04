@@ -1,2 +1,2 @@
 # mario-js
- Jogo do Mario feito em HTML, CSS e JS
+ Jogo do Mario JUMP feito em HTML, CSS e JS
